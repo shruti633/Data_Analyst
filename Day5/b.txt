@@ -1,0 +1,42 @@
+Day 1:
+
+Learned basic Git commands.
+Created Bootcoding folder → Data Analyst folder → Day1 folder.
+Run the Hello World program in Python.
+Activated venv (venv/scripts/activate)
+and installed matplotlib using:
+pip install matplotlib
+
+
+Day 2:
+
+Learned GitHub Commit Process using VS Code & Terminal.
+Steps:
+git --version  
+git add .  
+git commit -m "Add: message"  
+git push -u origin main 
+
+ 
+Day 3: Learning Plot & Pie Chart (Matplotlib)
+
+Feature               	Line Plot 🟦	                             Pie Chart 🟧
+Purpose	          Shows trends over time 📈	                         Shows proportions 📊
+                  plt.plot(x, y)                                     plt.pie(sizes, labels)
+Best for	      Continuous data 	                                 Categorical data 
+                  (time-series, stock prices)                        (market share, survey results)
+Axes Used	      Uses X and Y axes	                                 No axes, just circular segments
+Data Type	      Numeric, continuous	                             Percentages, proportions
+Visualization	  Line connecting points	                         Slices of a circle
+
+
+Day 4: FastAPI Navigation Tasks
+
+Visited GitIngest → Checked FastAPI repository processing.
+Created Folder & Opened VS Code → Made clone folder inside Bootcoding, opened it in VS Code using code ..
+Cloned FastAPI Repo → Used:
+git clone https://github.com/tiangolo/fastapi
+
+Navigated Files → Used cd commands to explore:
+docs, de, how-to folders
+docs_src, background_tasks folder

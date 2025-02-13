@@ -1,0 +1,13 @@
+Loading a JSON File in Power BI & Removing Duplicates –
+1️⃣ Loading a JSON File in Power BI
+Open Power BI Desktop
+Click on Home → Get Data → JSON
+Browse and select your JSON file
+Click Open → Power Query Editor will load the JSON data
+Expand Records or Lists (if necessary) to structure the data
+Click Close & Apply to load the cleaned data into Power BI
+2️⃣ Removing Duplicate Rows in Power BI
+In Power Query Editor, select the table
+Choose one or multiple columns where duplicates might exist
+Click on Remove Duplicates (under the Home tab)
+Click Close & Apply to save the changes

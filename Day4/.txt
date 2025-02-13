@@ -1,0 +1,50 @@
+
+Step-by-Step Summary:---
+
+Visit GitIngest Website:
+
+I first visited the website gitingest.com.
+On the website, I clicked on FastAPI and then clicked Ingest to view the processing details of the FastAPI repository.
+
+Create a Folder and Open VS Code:
+Inside the bootcoding folder, I created a new folder named clone.
+Inside the clone folder, I opened the terminal by typing cmd
+Then, I typed code . in the terminal to open VS Code directly in the clone folder.
+Clone the FastAPI Repository:
+In VS Code, I toggled the panel and opened the terminal.
+
+I used the following command to clone the FastAPI repository:
+git clone https://github.com/tiangolo/fastapi
+After executing the command, the FastAPI repository was successfully cloned.
+
+
+I successfully completed both tasks
+
+complete Task 1: Navigating Files:
+PS C:\Users\Admin\Desktop\Bootcoding\clone> git clone https://github.com/tiangolo/fastapi
+fatal: destination path 'fastapi' already exists and is not an empty directory.PS C:\Users\Admin\Desktop\Bootcoding\clone> cd fastapi
+PS C:\Users\Admin\Desktop\Bootcoding\clone\fastapi> cd docs
+PS C:\Users\Admin\Desktop\Bootcoding\clone\fastapi\docs> cd de
+PS C:\Users\Admin\Desktop\Bootcoding\clone\fastapi\docs\de> cd docs
+PS C:\Users\Admin\Desktop\Bootcoding\clone\fastapi\docs\de\docs> cd how-to
+
+complete Task 2: Navigating Files:
+PS C:\Users\Admin\Desktop\Bootcoding\clone\fastapi\docs\de\docs\how-to>PS C:\Users\Admin\Desktop\Bootcoding\clone\fastapi\docs\de\docs\how-to> cd ..
+PS C:\Users\Admin\Desktop\Bootcoding\clone\fastapi\docs\de\docs\how-to>PS C:\Users\Admin\Desktop\Bootcoding\clone\fastapi\docs\de\docs> cd ..
+PS C:\Users\Admin\Desktop\Bootcoding\clone\fastapi\docs\de\docs\how-to>PS C:\Users\Admin\Desktop\Bootcoding\clone\fastapi\docs\de> cd ..
+PS C:\Users\Admin\Desktop\Bootcoding\clone\fastapi\docs\de\docs\how-to>PS C:\Users\Admin\Desktop\Bootcoding\clone\fastapi\docs> cd ..
+PS C:\Users\Admin\Desktop\Bootcoding\clone\fastapi\docs\de\docs> cd ..PS C:\Users\Admin\Desktop\Bootcoding\clone\fastapi> cd docs_src
+PS C:\Users\Admin\Desktop\Bootcoding\clone\fastapi\docs_src> cd background_tasksPS C:\Users\Admin\Desktop\Bootcoding\clone\fastapi\docs_src> cd background_tasks
+PS C:\Users\Admin\Desktop\Bootcoding\clone\fastapi\docs_src> cd background_tasksPS C:\Users\Admin\Desktop\Bootcoding\clone\fastapi\docs_src\background_tasks> ls
+
+Directory: C:\Users\Admin\Desktop\Bootcoding\clone\fastapi\docs_src\background_tasks
+
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+-a----        31-01-2025     16:16            534 tutorial001.py
+-a----        31-01-2025     16:16            701 tutorial002.py
+-a----        31-01-2025     16:16            752 tutorial002_an.py
+-a----        31-01-2025     16:16            709 tutorial002_an_py310.py
+-a----        31-01-2025     16:16            722 tutorial002_an_py39.py
+-a----        31-01-2025     16:16            667 tutorial002_py310.py

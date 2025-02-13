@@ -1,0 +1,57 @@
+git add a.txt
+
+What is Power BI?
+Power BI is a business analytics tool from Microsoft that helps you visualize data,
+ create interactive reports and dashboards, and share insights across an organization 
+ or with external stakeholders. It allows users to connect to multiple data sources, 
+ transform raw data into meaningful insights, and make data-driven decisions.
+
+Types of Visualizations in Power BI:
+Cards: Display single values like Total Sales, Profit, etc.
+Charts: Bar charts, line charts, pie charts, etc. for analyzing trends and comparisons.
+Tables: Display detailed records.
+Maps: For geospatial data to show data points on a map.
+KPIs: Key Performance Indicators to track business metrics.
+
+Steps to Create a Power BI Report:
+Connect to Data: Import or connect to a data source.
+Transform Data: Clean and shape the data using Power Query.
+Create Relationships: Define relationships between tables in your dataset.
+Build Visuals: Drag and drop fields into visualizations (charts, tables, etc.).
+Publish: Share the reports to Power BI Service to collaborate and share insights.
+
+Types of "Views" in Power BI:
+Report View: Where you design and create the report with visuals.
+Data View: A tabular view of your dataset.
+Model View: Where you can define relationships between tables and manage the data model.
+Dashboard View: In Power BI Service, where you can see multiple tiles summarizing different reports and metrics.
+=======
+
+summary of the steps to create a Power BI dashboard analyzing Accenture's stock data:
+
+1. Data Preparation:
+Ensure the dataset includes columns: Date, Open, High, Low, Close, Volume.
+Add columns for Quarter, Day, and Year based on the Date column.
+
+2. Loading Data into Power BI:
+Import and transform the data in Power BI, ensuring correct data types for each column.
+Extract new columns for Quarter, Day, and Year from the Date.
+
+3. Designing the Dashboard:
+Accenture Logo: Add branding to the report.
+Card Visuals: Display key metrics (Opening Price, Closing Price, High Price, Low Price).
+Bar Charts: Visualize yearly market summary and high/low prices.
+Line Charts: Create multiple charts to show daily, monthly, quarterly, and yearly price analysis.
+Table Format: Display sums of prices grouped by periods (Year or Quarter).
+
+4. Understanding Stock Terms:
+Stock: Represents ownership in a company.
+Open/High/Low/Close Price: Different price points during a stock's trading session.
+Quarter: Three-month period used for financial reporting.
+
+5. Purpose of Visualizations:
+Card Visuals: Quick snapshot of stock performance.
+Bar Charts: Compare prices over time.
+Line Charts: Show trends over different time frames.
+Table Format: Detailed data for deeper analysis.
+

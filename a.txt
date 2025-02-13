@@ -1,0 +1,25 @@
+What is Power BI?
+Power BI is a business analytics tool from Microsoft that helps you visualize data,
+ create interactive reports and dashboards, and share insights across an organization 
+ or with external stakeholders. It allows users to connect to multiple data sources, 
+ transform raw data into meaningful insights, and make data-driven decisions.
+
+Types of Visualizations in Power BI:
+Cards: Display single values like Total Sales, Profit, etc.
+Charts: Bar charts, line charts, pie charts, etc. for analyzing trends and comparisons.
+Tables: Display detailed records.
+Maps: For geospatial data to show data points on a map.
+KPIs: Key Performance Indicators to track business metrics.
+
+Steps to Create a Power BI Report:
+Connect to Data: Import or connect to a data source.
+Transform Data: Clean and shape the data using Power Query.
+Create Relationships: Define relationships between tables in your dataset.
+Build Visuals: Drag and drop fields into visualizations (charts, tables, etc.).
+Publish: Share the reports to Power BI Service to collaborate and share insights.
+
+Types of "Views" in Power BI:
+Report View: Where you design and create the report with visuals.
+Data View: A tabular view of your dataset.
+Model View: Where you can define relationships between tables and manage the data model.
+Dashboard View: In Power BI Service, where you can see multiple tiles summarizing different reports and metrics.
