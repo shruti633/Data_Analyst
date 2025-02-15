@@ -1,0 +1,15 @@
+Summary for :-
+Mock Interview Results Dashboard :-
+The Mock Interview Result page presents a structured visual breakdown of candidate performance:
+
+1️⃣ Four KPI Cards – Display key metrics such as Overall Rating, Total Answers, Average Technical Score, and Job Readiness Score for a quick summary.
+
+2️⃣ Pie Chart: Hiring Decision Distribution – Shows the proportion of candidates categorized as Recommended, Needs Improvement, or Conditional Fit based on evaluations.
+
+3️⃣ Bar Chart: Soft Skills Comparison – Compares Communication, Confidence, and Attitude scores across candidates to identify strengths and weaknesses.
+
+4️⃣ Bar Chart: Technical Score Per Question – Displays Average Technical Score per Question, helping assess difficulty levels.
+
+5️⃣ Stacked Bar Chart: Soft Skills Breakdown – Provides a detailed breakdown of soft skills (Communication, Confidence, Attitude) for each question.
+
+6️⃣ Matrix: Candidate Answers & Feedback – Displays specific candidate answers, ideal responses, and evaluation feedback for deeper insights.
