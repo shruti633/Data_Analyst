@@ -13,3 +13,57 @@ The Mock Interview Result page presents a structured visual breakdown of candida
 5️⃣ Stacked Bar Chart: Soft Skills Breakdown – Provides a detailed breakdown of soft skills (Communication, Confidence, Attitude) for each question.
 
 6️⃣ Matrix: Candidate Answers & Feedback – Displays specific candidate answers, ideal responses, and evaluation feedback for deeper insights.
+
+
+
+
+changes :---
+1️⃣ Title & Navigation Buttons
+
+Title: "Mock Interview Results" 
+Navigation Buttons: (First Dashboard, Second Details)
+2️⃣ Four KPI Cards (Key Performance Indicators)
+
+Sum of Average Technical Score → Shows candidates' technical proficiency.
+Soft Skill Overall Rating → Reflects candidates' soft skills performance.
+Total Answers Count → Represents the number of responses analyzed.
+Job Readiness Score → Determines how fit candidates are for hiring.
+📌 Why? KPI Cards provide a quick summary of overall performance at a glance.
+
+3️⃣ Stacked Column Chart: Soft Skill Performance Across Hiring Decisions
+
+X-Axis: Hiring Decision (Needs Improvement, Recommended, etc.)
+Y-Axis: Average Soft Skill Score
+Legend: Soft Skill Type (Communication, Confidence, Attitude)
+📌 Why? Helps compare how different hiring decisions correlate with soft skill performance.
+
+4️⃣ Pie Chart: Hiring Decision Distribution
+
+Legend: Hiring Decision (Needs Improvement, Recommended, etc.)
+Values: Count of Hiring Decisions
+📌 Why? A pie chart is ideal for showing proportions and understanding which hiring decision is most frequent.
+
+5️⃣ Clustered Column Chart: Technical vs Soft Skills Comparison
+
+X-Axis: Soft Skills (Communication, Confidence, Attitude)
+Y-Axis: Average Technical Score
+📌 Why? Helps compare technical skills vs. soft skills to analyze which area needs improvement.
+
+6️⃣ Stacked Bar Chart: Soft Skills Breakdown Based on Feedback Count
+
+X-Axis: Count of Feedback Questions
+Y-Axis: Soft Skills (Confidence, Communication, Attitude)
+Legend: Soft Skill Type
+📌 Why? This visualization breaks down soft skill performance based on the number of feedback responses.
+
+7️⃣ Matrix: Candidate Response Analysis
+
+Rows: Feedback Question
+Columns:
+✅ Soft Skill Confidence Score
+✅ Soft Skill Communication Score
+✅ Soft Skill Attitude Score
+✅ Candidate Answer
+✅ Ideal Answer
+✅ Average Technical Score
+📌 Why? A Matrix is used for a detailed comparison of candidates' answers vs. ideal answers, identifying areas for improvement.
