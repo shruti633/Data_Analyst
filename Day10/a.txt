@@ -1,0 +1,22 @@
+Summary of Data Analysis Process :-
+
+1️⃣ Exploring Datasets.
+Visited Kaggle to find real-world datasets.
+Opened Google Colab for Python-based data analysis.
+
+2️⃣ Importing Data & Libraries
+Imported Pandas (import pandas as pd).
+Loaded an Excel dataset using pd.read_excel().
+
+3️⃣ Data Inspection.
+Displayed dataset (df.head()) to check structure.
+Checked data types (df.dtypes).
+
+4️⃣ Data Cleaning
+✅ Removed duplicate records (df.drop_duplicates()).
+✅ Dropped unnecessary columns (df.drop(columns="Not_Useful_Column")).
+✅ Cleaned text data:
+
+Stripped unwanted characters (lstrip("/"), rstrip("_")).
+✅ Handled missing values (df.fillna("")).
+✅ Cleaned phone numbers by removing non-numeric characters (str.replace('[^0-9]','')).
